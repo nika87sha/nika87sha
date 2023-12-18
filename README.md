@@ -1,6 +1,6 @@
-# [Hola soy Verónica]
+# [Hola Mundo!]
 
-SysAdmin apasionada por la tecnología y la resolución de problemas. Experiencia en entornos pequeños y grandes, con una sólida formación en administración de sistemas.
+Soy Verónica, SysAdmin apasionada por la tecnología y la resolución de problemas. Experiencia en entornos pequeños y grandes, con una sólida formación en administración de sistemas.
 
 ### ✉️  &nbsp;Contacto 
 
