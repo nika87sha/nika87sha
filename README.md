@@ -13,5 +13,3 @@ Me puedes encontrar en:
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,ansible,linux,bash,vim,py,docker,git,github,aws,gcp,postgres,mysql,mariadb)](https://skillicons.dev)
 
-
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
