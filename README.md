@@ -2,6 +2,8 @@
 
 Soy Verónica, SysAdmin apasionada por la tecnología y la resolución de problemas. Experiencia en entornos pequeños y grandes, con una sólida formación en administración de sistemas.
 
+## Habilidades
+
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,ansible,vim,py,html,css,bootstrap,docker,git,github,postgres,mysql,aws,gcp)](https://skillicons.dev)
 
 ## ✉️  &nbsp;Contactame
