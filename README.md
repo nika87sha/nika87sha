@@ -6,8 +6,8 @@ SysAdmin • Automation nerd • Linux
 [![My Skills](https://skillicons.dev/icons?i=linux,vim,bash,python,ansible,git,postgres,mysql)](https://skillicons.dev)
 
 ## Public repos
-- **tdo-hub** — productivity / task management hub
-- **nvim-config** — my Neovim setup (lazy.nvim, LSP, treesitter, etc.)
+- [**tdo-hub**](https://github.com/nika87sha/tdo-hub) — productivity / task management hub
+- [**nvim-config**](https://github.com/nika87sha/nvim-config) — my Neovim setup (lazy.nvim, LSP, treesitter, etc.)
 
 ## Philosophy
 > "If you do it twice, script it. If you do it three times, automate it."
