@@ -1,15 +1,24 @@
-# [Hola Mundo!]
+# Hi, I'm Verónica 👋
 
-Soy Verónica, SysAdmin apasionada por la tecnología y la resolución de problemas. Experiencia en entornos pequeños y grandes, con una sólida formación en administración de sistemas.
+SysAdmin • Automation nerd • Linux
 
-## Habilidades
+## What I touch daily
+[![My Skills](https://skillicons.dev/icons?i=linux,vim,bash,python,ansible,git,postgres,mysql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,ansible,vim,docker,git,github,postgres,mysql)](https://skillicons.dev)
+## Public repos
+- **tdo-hub** — productivity / task management hub
+- **nvim-config** — my Neovim setup (lazy.nvim, LSP, treesitter, etc.)
 
-## ✉️  &nbsp;Contactame
+## Philosophy
+> "If you do it twice, script it. If you do it three times, automate it."
 
-[![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:veronica.duran87@proton.me)](mailto:veronica.duran87@proton.me)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veronika87/)](https://www.linkedin.com/in/veronika87/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/VeroNika_87)](https://t.me/VeroNika_87)
+## 🔍 Open to
+- Issues & PRs on my repos
+- Collabs on automation/tooling
+- Learning in public
 
+---
 
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:veronica.duran87@proton.me)](mailto:veronica.duran87@proton.me)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veronika87/)](https://www.linkedin.com/in/veronika87/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/VeroNika_87)](https://t.me/VeroNika_87)
